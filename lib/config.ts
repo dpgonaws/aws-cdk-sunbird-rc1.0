@@ -32,7 +32,7 @@ export const getConfig = (): ConfigProps => ({
   MAX_AZS: 2,
   BUCKET_NAME: process.env.BUCKET_NAME || "",
   CHART: "sunbird-rc",
-  REPOSITORY: "https://amitvashist7.github.io/helm-example/",
+  REPOSITORY: "https://github.com/Sunbird-RC/aws-cdk/packages",
   NAMESPACE: "sbrc-registry",
   RELEASE: "sbrc-registry",
   RDS_USER: process.env.RDS_USER || "postgres",
