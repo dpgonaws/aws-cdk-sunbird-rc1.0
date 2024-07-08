@@ -3,7 +3,7 @@ entries:
   sunbird-rc:
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2024-07-08T11:22:45.533987565Z"
+    created: "2024-07-08T12:24:24.011521557Z"
     description: A Helm chart for Sunbird RC
     digest: 7e5499588c315eded26cbd60303a2271066be4adc5f18b98eacd457fa3ecc0db
     name: sunbird-rc
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/Sunbird-RC/aws-cdk/sunbird-rc-1.0.1.tgz
     version: 1.0.1
-generated: "2024-07-08T11:22:45.529409828Z"
+generated: "2024-07-08T12:24:24.006913742Z"
